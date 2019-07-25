@@ -511,6 +511,7 @@ header{
     border: none;
     border-radius: 5px;
     margin-bottom: 20px;
+    font-family: 'Raleway', sans-serif;
 }
 .contact-section form input[type="email"]{
     width: 100%;
@@ -522,6 +523,7 @@ header{
     border: none;
     border-radius: 5px;
     margin-bottom: 20px;
+    font-family: 'Raleway', sans-serif;
 }
 .contact-section form select{
 	width: 100%;
@@ -533,6 +535,7 @@ header{
 	border: none;
 	border-radius: 5px;
 	margin-bottom: 20px;
+	font-family: 'Raleway', sans-serif;
 }
 .contact-section form input[type="submit"]{
     color: #222222;
@@ -547,6 +550,7 @@ header{
     position: relative;
     box-sizing: border-box;
     transition: all .4s linear;
+    font-family: 'Raleway', sans-serif;
 }
 
 .contact-section form input[type="submit"]:hover{
