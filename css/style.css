@@ -80,7 +80,7 @@ header{
 	background-size: cover;
 	background-position: center;
 	position: relative;
-	height: 700px;
+	height: 80vh;
 }
 .banner-section .overlay-bg{
 	content: '';
